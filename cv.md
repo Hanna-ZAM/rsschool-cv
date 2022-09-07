@@ -35,7 +35,7 @@ My career started when I was only 19. I always seek to develop my skills. But no
 ```
 Let myCode = ’’I don’t have good deal of experience in writing code’’;
 Alert (myCode);
-```
+```git
 
 ## **Experience**
 Belorusian State Institute of metrology (since 2006)
