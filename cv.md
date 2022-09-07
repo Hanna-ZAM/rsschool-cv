@@ -1,7 +1,7 @@
 # **Hanna Zalatarevich**
 
  <img src="avatar.jpg" width="200" height="">
- 
+
 ## **Contact**
 + **Phone:** +375295682325
 + **Email:** a.zoloto@mail.ru
@@ -25,8 +25,8 @@ My career started when I was only 19. I always seek to develop my skills. But no
 + Belorusian State Energy University
     + Termal power plants
 + Minsk State Energy College
-    + Thermal power engineering 
-+ Yudaev School 
+    + Thermal power engineering
++ Yudaev School
     + Web-design with wow-effect
 + RSSchool
     + JS/FE Pre-School 2022Q2 (in progress)
@@ -44,4 +44,4 @@ Belorusian State Institute of metrology (since 2006)
 ## **Languages**
 + Russian (native)
 + Belorussian (native)
-+ English (A2) 
++ English (A2)
